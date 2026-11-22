@@ -1,1 +1,14 @@
+FIELD INSPECTION RECORD
+=======================
 
+Record ID : KRT-7710-04
+Site      : Kerteh
+Status    : CLOSED
+Node      : SAFETY-SYNC-04
+
+Operator Note:
+Unexpected synchronization activity was observed
+during the final field inspection.
+
+Recovery Token:
+PETRONAS{g1t_d03s_n0t_f0rg3t_7710}
